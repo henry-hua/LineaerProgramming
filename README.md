@@ -1,0 +1,2 @@
+# LineaerProgramming
+for manpower allocation
